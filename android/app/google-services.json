@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590512700098",
+    "project_id": "fyp-app-ca1f5",
+    "storage_bucket": "fyp-app-ca1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590512700098:android:edfde75865ea2c0b47995b",
+        "android_client_info": {
+          "package_name": "com.codehq.facebook_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAlnaVO_9RUDlgn2KS7wqzh-udviyI6Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

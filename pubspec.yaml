@@ -1,0 +1,49 @@
+name: facebook_clone
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+# environment:
+#   sdk: ">=3.3.4 <4.0.0"  
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cloud_firestore: any
+  firebase_auth: any 
+  firebase_core: any 
+  page_transition: any
+  firebase_storage: any 
+  flutter_holo_date_picker: any
+  flutter_riverpod: any 
+  fluttertoast: any
+  font_awesome_flutter: any 
+  image_picker: any 
+  jiffy: any
+  riverpod: any
+  uuid: any 
+  video_player: any 
+  animated_bottom_navigation_bar: any
+  geolocator: any 
+  camera: any 
+  animated_widgets: any 
+  path_provider: any
+  permission_handler: any 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/icons/signup.png
+    - assets/icons/signup.png
